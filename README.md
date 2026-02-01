@@ -3,6 +3,20 @@ Business performance and sales analytics dashboard of a multi year superstore da
 
 This project analyzes retail sales data to identify revenue drivers, loss-making products, regional performance, and customer insights using SQL and Power BI.
 
+The key questions which arise while handling a business query ,are -
+Which regions and categories generate the highest revenue and profit?
+
+Which products are loss-making despite high sales?
+
+How do discounts impact profit margins?
+
+What are the monthly and yearly sales trends?
+
+Who are the high-value customers?
+
+Hence following questions are answered by the the analaysis done.
+
+
 ### Repository Structure
 - data: Superstore Dataset(Kaggle)
 - sql: All SQL queries used for analysis
