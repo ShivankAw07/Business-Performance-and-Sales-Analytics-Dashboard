@@ -19,15 +19,6 @@ SQL Server (SSMS) — Data cleaning, transformation, and analysis
 Excel — Data inspection and validation
 Power BI — Interactive dashboard and visual storytelling
 
-🗂️ Repository Structure
-Copy code
-
-├── data/           # Superstore dataset (Kaggle source)
-├── sql/            # All SQL queries used for analysis
-├── results/        # Query outputs exported from SQL Server
-├── screenshots/    # Dashboard visuals and query previews
-└── README.md
-
 🔍 Key Analysis Performed
 Region-wise Sales vs Profit analysis
 Category and Sub-category performance
@@ -37,7 +28,18 @@ Identification of Top 10 Customers using SQL window functions
 Detection of loss-making products with high sales
 
 📊 Dashboard Preview
-(Add your Power BI dashboard screenshots in the screenshots/ folder and link them here)
+## Power BI Dashboard
+
+The interactive dashboard contains multiple pages covering:
+
+- Business KPI overview
+- Regional sales performance
+- Monthly sales trends
+- Product category profitability
+- Customer analysis
+- Discount impact on profit
+
+The `.pbix` file is included in the repository for full exploration.
 
 💡 Key Insights Derived
 Certain products generate high sales but consistently incur losses due to heavy discounts
