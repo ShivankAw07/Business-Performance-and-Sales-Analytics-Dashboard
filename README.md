@@ -4,12 +4,13 @@ This project analyzes retail sales data to uncover revenue drivers, profitabilit
 
 Tools Used:
 - SQL
+- Excel
 - Power BI
 
 Project Workflow:
-1. Data exploration and KPI analysis using SQL
-2. Data preparation and calculations in Excel
-3. Interactive dashboard creation in Power BI
+1. Data exploration and KPI analysis using SQL 
+2.Data preparation and calculations in Excel
+3.Interactive dashboard creation in Power BI
 
 Key Insights:
 - Identified loss-making product categories
